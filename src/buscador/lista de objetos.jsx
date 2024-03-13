@@ -3,5 +3,20 @@ export const objetos = [
     { id: 2, nombre: 'sebastian', descripcion: 'que honda como estas' },
     { id: 3, nombre: 'martos', descripcion: 'que dice mi hermano' },
     { id: 4, nombre: 'emmanuel', descripcion: 'buenos dias' },
-    { id: 5, nombre: 'jose', descripcion: 'que mas parcero' }
+    { id: 5, nombre: 'jose', descripcion: 'que mas parcero' },
+    { id: 6, nombre: 'lucas', descripcion: 'cualquier cosa' },
+    { id: 7, nombre: 'carlos', descripcion: 'este es carlos' },
+    { id: 8, nombre: 'andres', descripcion: 'que paso' },
+    { id: 9, nombre: 'david', descripcion: 'hola como estas' },
+    { id: 10, nombre: 'ana', descripcion: 'hola soy ana' },
+    { id: 11, nombre: 'laura', descripcion: 'esta es laura' },
+    { id: 12, nombre: 'maria', descripcion: 'que mas' },
+    { id: 13, nombre: 'julian', descripcion: 'hola' },
+    { id: 14, nombre: 'juanita', descripcion: 'que mas' },
+    { id: 15, nombre: 'samuel', descripcion: 'que onda' },
+    { id: 16, nombre: 'luis', descripcion: 'cualquier cosa' },
+    { id: 17, nombre: 'sandra', descripcion: 'este es un nombre' },
+    { id: 18, nombre: 'pedro', descripcion: 'hola' },
+    { id: 19, nombre: 'diego', descripcion: 'hola como estas' },
+    { id: 20, nombre: 'felipe', descripcion: 'que tal' }
 ];
